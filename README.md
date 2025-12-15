@@ -1,2 +1,2 @@
-# proyecto1_guayerd
-prueba de repositorio
+curso de IA de GUAYERD - IBM
+proyecto de prueba
